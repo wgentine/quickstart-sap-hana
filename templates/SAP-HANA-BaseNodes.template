@@ -906,6 +906,8 @@ Mappings:
       SLES15HVM: ami-0f1e3b3fb0fec0361
       SLES15SAPHVM: ami-0ca00995da6bbdea0
       SLES15SAPBYOSHVM: ami-08c05da8c43e5091a
+    eu-south-1:
+      SLES15SAPHVM: ami-0ca00995da6bbdea0
 Outputs:
   HANAMasterInstanceIP:
     Description: HANA Master Node IP Address
